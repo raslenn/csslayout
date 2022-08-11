@@ -1,0 +1,104 @@
+ h1 {
+    text-align: center;
+}
+h1 {
+    color: #208484;
+    font-size: 2.125rem;
+}
+p{
+    font-size: 1.625em;
+}
+.a1 {
+    width: 400PX;
+    height: 2.33;
+    background-color: #5dd8ce;
+}
+.a2 {
+    width: 400PX;
+    height: 2.33;
+    background-color: #a7e6e0;
+}
+.a {
+    width: 400px;
+    height: 2.33;
+    background-color: #15496300;
+}
+h3 {
+    float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b;
+}
+.brands_logos{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0;
+    list-style: none;
+    width: 67%;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #fff;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: rgb(247, 247, 247);
+  }
+  
+  .topnav a.active {
+    background-color: #838d8c;
+    color: white;
+  }
+  
+  .topnav-right {
+    float: right;
+  }
+  .topnav a {
+    float: right;
+    color: #838d8c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #fff;
+  }
+  .logo-docplanner {
+    width: 268px;
+    height: 33px;
+}
+h1 {
+    text-align: center;
+}
+.stats__header p {
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+}
+p {
+    margin: 1.6em 0;
+}
+.TR {
+    background-color: #ddd;
+    width: auto;
+}
+.TY {
+    background-color: #ddd;
+}
